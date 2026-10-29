@@ -1,8 +1,8 @@
 class Androidtether < Formula
   desc "Android USB tethering for Mac: userspace RNDIS, no kernel extension"
   homepage "https://github.com/aarif2/androidtether"
-  url "https://github.com/aarif2/androidtether/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "610dd35d196b2dccb742e14bbf2a45935637bf0fcfe05a40df19b9d4c37d1055"
+  url "https://github.com/aarif2/androidtether/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "164b1f765a108f569cbb8238747b178968f41a3a480a0876bffb20444fc8f9a2"
   license "MIT"
 
   depends_on :macos
